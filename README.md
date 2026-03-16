@@ -99,6 +99,19 @@ Make sure an **Android Emulator** or physical Android device is running.
 
 ------------------------------------------------------------------------
 
+## 📸 App Screenshots
+
+### Login Screen
+<img width="1920" height="1080" alt="Screenshot (201)" src="https://github.com/user-attachments/assets/53bd985a-787b-433a-98ca-567addf8ea87" />
+
+### Register Screen
+<img width="1920" height="1080" alt="Screenshot (202)" src="https://github.com/user-attachments/assets/fcbf2556-d3a2-432f-9abb-5546b2c3b38f" />
+
+### Home Screen
+<img width="1920" height="1080" alt="Screenshot (200)" src="https://github.com/user-attachments/assets/77974ca0-8fde-48d5-97fc-0a63fb7c2fb7" />
+
+------------------------------------------------------------------------
+
 ## 💾 Data Persistence
 
 The app uses **AsyncStorage** to store:
